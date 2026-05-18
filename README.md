@@ -138,5 +138,20 @@ Questions and ideas welcome via [GitHub Discussions](https://github.com/toshiya-
 Bug reports via [GitHub Issues](https://github.com/toshiya-mimura/never-give-up-loop/issues).
 
 ---
+## Background
+
+This project was born from a personal story.
+
+The creator wrote two semi-autobiographical works
+that explain *why* this system exists:
+
+- 📖 [コーラの王冠](https://note.com/ryojp3636/n/n2c96584190a4)
+  *A semi-autobiographical novel. 14 chapters.*
+- 📖 [40年後から来た男](https://note.com/ryojp3636/n/nbb3bb77b43e4)
+  *An SF companion story.*
+
+> *"I want my kids to be able to ask me anything,*
+> *even after I'm gone."*
+
 
 *Never Give Up Loop — because some conversations should never end.*
