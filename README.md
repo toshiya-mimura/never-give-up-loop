@@ -114,6 +114,14 @@ This project was built on three beliefs:
 The name *Never Give Up Loop* reflects the idea that your story doesn't end. It loops — continuing through the people you loved.
 
 ---
+## Demo
+
+> "A father you can still talk to, even after he's gone."
+
+[![Demo Video](https://img.youtube.com/vi/E7542gVge9Y/0.jpg)](https://youtu.be/E7542gVge9Y)
+
+*Voice cloned AI running on a home NAS —
+accessible from a smartphone, anywhere in the world.*
 
 ## About the Creator
 
